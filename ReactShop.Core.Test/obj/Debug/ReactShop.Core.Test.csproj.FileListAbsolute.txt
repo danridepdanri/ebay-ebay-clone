@@ -1,0 +1,2 @@
+D:\скачка\ReactShop\ReactShop.Core.Test\obj\Debug\ReactShop.Core.Test.csproj.AssemblyReference.cache
+D:\скачка\ReactShop\ReactShop.Core.Test\obj\Debug\ReactShop.Core.Test.csproj.CoreCompileInputs.cache
